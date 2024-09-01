@@ -1,0 +1,43 @@
+body {
+    font-family: "Times New Roman", Times, serif;
+    background-color: #ffffff;
+    color: #000;
+    margin: 20px;
+}
+
+.container {
+    max-width: 600px;
+    margin: 0 auto;
+    text-align: left;
+}
+
+h1 {
+    color: #0033cc;
+    text-align: center;
+    font-size: 2em;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+
+p {
+    font-size: 1.2em;
+    line-height: 1.8;
+}
+
+strong {
+    font-weight: bold;
+}
+
+em {
+    font-style: italic;
+}
+
+.highlight {
+    background-color: yellow;
+    font-weight: bold;
+}
+
+.blue {
+    color: #0080ff;
+    font-style: italic;
+}
